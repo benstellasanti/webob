@@ -6,5 +6,11 @@ tags:
   - Obsidian
 draft:
 ---
-[[1.png]]
+[[\\wsl$\Ubuntu\home\acerda\mi-sitio\static\imagenes\imagenes\1.png]]
+
+![](\\wsl$\Ubuntu\home\acerda\mi-sitio\static\imagenes\imagenes\1.png)
+asdas
+
+
+
 informacion relevante
